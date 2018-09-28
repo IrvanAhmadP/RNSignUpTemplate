@@ -1,12 +1,12 @@
 # RNSignUpTemplate
 
-## Screenshot
+### Screenshot
 ![Screenshot React Native Sign Up Template](https://raw.githubusercontent.com/IrvanAhmadPrasetya/RNSignUpTemplate/master/Screenshot.PNG)
 
-## Graphic Design
+### Graphic Design
 https://www.behance.net/gallery/66946441/Daily-UI-001-Sign-up-pages
 
-## Getting Started
+### Getting Started
 
 Cloning this repo use SSH
 ```
@@ -34,7 +34,7 @@ react native link
 
 Waiting until finish
 
-## Running the tests
+### Running the tests
 
 Running for android
 ```
@@ -45,7 +45,7 @@ Running for iOS
 react-native run-ios
 ```
 
-## Deployment
+### Deployment
 
 To make it standalone compile without development mode. You need to run npm like this for debug standalone
 ```
@@ -56,10 +56,10 @@ For release standalone version, but you need keystore. If you want upload to pla
 npm run-script bundleRelease && npm run-script buildRelease
 ```
 
-## Built With
+### Built With
 
 * [React Native 0.55](http://facebook.github.io/react-native/releases/0.55/) - Mobile apps framework
 
-## Authors
+### Authors
 - Irvan Ahmad Prasetya - Apps Developer - [Irvan Ahmad Prasetya](https://github.com/IrvanAhmadPrasetya)
 - Iqbal Aqaba Putera - Apps Designer - [Iqbal Aqaba Putera](https://www.behance.net/iqbaldesig4a5c)

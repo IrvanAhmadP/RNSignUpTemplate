@@ -3,6 +3,9 @@
 ## Screenshot
 ![Screenshot React Native Sign Up Template](https://raw.githubusercontent.com/IrvanAhmadPrasetya/RNSignUpTemplate/master/Screenshot.PNG)
 
+## Graphic Design
+https://www.behance.net/gallery/66946441/Daily-UI-001-Sign-up-pages
+
 ## Getting Started
 
 Cloning this repo use SSH
@@ -62,8 +65,6 @@ npm run-script bundleRelease && npm run-script buildRelease
 
 Feel free for submitting pull requests to us.
 
-## Graphic Design
-https://www.behance.net/gallery/66946441/Daily-UI-001-Sign-up-pages
 
 ## Authors
 - Irvan Ahmad Prasetya - Apps Developer - [Irvan Ahmad Prasetya](https://github.com/IrvanAhmadPrasetya)

@@ -60,11 +60,6 @@ npm run-script bundleRelease && npm run-script buildRelease
 
 * [React Native 0.55](http://facebook.github.io/react-native/releases/0.55/) - Mobile apps framework
 
-## Contributing
-
-Feel free for submitting pull requests to us.
-
-
 ## Authors
 - Irvan Ahmad Prasetya - Apps Developer - [Irvan Ahmad Prasetya](https://github.com/IrvanAhmadPrasetya)
 - Iqbal Aqaba Putera - Apps Designer - [Iqbal Aqaba Putera](https://www.behance.net/iqbaldesig4a5c)

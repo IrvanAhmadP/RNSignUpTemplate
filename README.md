@@ -58,8 +58,7 @@ npm run-script bundleRelease && npm run-script buildRelease
 
 ## Built With
 
-* [React Native 0.47](http://facebook.github.io/react-native/releases/0.47/) - Mobile apps framework
-* [React Navigation](https://reactnavigation.org/) - React Native Plugin
+* [React Native 0.55](http://facebook.github.io/react-native/releases/0.55/) - Mobile apps framework
 
 ## Contributing
 

@@ -63,7 +63,3 @@ npm run-script bundleRelease && npm run-script buildRelease
 ## Authors
 - Irvan Ahmad Prasetya - Apps Developer - [Irvan Ahmad Prasetya](https://github.com/IrvanAhmadPrasetya)
 - Iqbal Aqaba Putera - Apps Designer - [Iqbal Aqaba Putera](https://www.behance.net/iqbaldesig4a5c)
-
-## License
-
-This project is licensed under the MIT License

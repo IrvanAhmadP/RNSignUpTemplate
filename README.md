@@ -4,7 +4,7 @@
 ![Screenshot React Native Sign Up Template](https://raw.githubusercontent.com/IrvanAhmadPrasetya/RNSignUpTemplate/master/images/Screenshot.PNG)
 
 ### Graphic Design
-https://www.behance.net/gallery/66946441/Daily-UI-001-Sign-up-pages
+https://www.behance.net/gallery/66946441/Daily-UI-001-Sign-up-pages - [Iqbal Aqaba Putera](https://www.behance.net/iqbaldesig4a5c)
 
 ### Getting Started
 

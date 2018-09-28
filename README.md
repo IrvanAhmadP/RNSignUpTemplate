@@ -58,7 +58,7 @@ npm run-script bundleRelease && npm run-script buildRelease
 
 ### Built With
 
-* [React Native 0.55](http://facebook.github.io/react-native/releases/0.55/) - Mobile apps framework
+* [React Native 0.55](http://facebook.github.io/react-native/docs/0.55/getting-started.html) - Mobile apps framework
 
 ### Authors
 - Irvan Ahmad Prasetya - Apps Developer - [Irvan Ahmad Prasetya](https://github.com/IrvanAhmadPrasetya)
